@@ -1,7 +1,8 @@
 name: flutter_tools
 description: "A collection of flutter common tools."
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/LantzShaw/flutter_tools
+repository: https://github.com/LantzShaw/flutter_tools
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
